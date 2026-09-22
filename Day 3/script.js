@@ -92,15 +92,15 @@
 
 // 7 Print Alternating Binary Triangle
 
-let rows = 5;
-for (let i = 1; i <= rows; i++) {
-  let pattern = "";
-  for (let j = 1; j <= i; j++) {
-    if ((i + j) % 2 === 0) {
-      pattern = pattern + "1";
-    } else {
-      pattern = pattern + "0";
-    }
-  }
-  console.log(pattern);
-}
+// let rows = 5;
+// for (let i = 1; i <= rows; i++) {
+//   let pattern = "";
+//   for (let j = 1; j <= i; j++) {
+//     if ((i + j) % 2 === 0) {
+//       pattern = pattern + "1";
+//     } else {
+//       pattern = pattern + "0";
+//     }
+//   }
+//   console.log(pattern);
+// }
